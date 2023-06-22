@@ -1,0 +1,1 @@
+put the lib folder & the plugins folder in there 
